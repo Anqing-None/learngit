@@ -15,3 +15,12 @@
     git checkout dev
 
 '''
+在dev分支commit后文件返回master文件状态会回到master
+
+merge
+在master分支上使用git merge dev可以将commit到dev分支的文件状态恢复
+这步操作相当于将master指针指向dev
+
+merge后删除dev分支
+
+''' git branch -d dev '''
