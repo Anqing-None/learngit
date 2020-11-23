@@ -1,0 +1,96 @@
+commit ef47cbac80069b1e04ae7b19dab2877acac1ae2b
+Merge: 3a0a7cf f9a4a48
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Mon Nov 23 12:13:37 2020 +0800
+
+    Merge branch 'issue2'
+
+commit 3a0a7cf0cb425540575646165c44388be39ccc6d
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Mon Nov 23 12:10:02 2020 +0800
+
+    fix issue2
+
+commit f9a4a48dfedf0fbc22bff7a03f14ed86b2fb53e1
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Mon Nov 23 12:08:47 2020 +0800
+
+    fix issue2
+
+commit 88e8cf1deda1fc4c6ce256b77103cbdea6b1613b
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Mon Nov 23 11:49:51 2020 +0800
+
+    fix issue1
+
+commit 969b17f001fc5adeb085f57b3be32dc466aa6643
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Mon Nov 23 00:20:20 2020 +0800
+
+    updata
+
+commit a268cd6dde2930ca06112c8f9da516639d3ca5fe
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Mon Nov 23 00:02:43 2020 +0800
+
+    create a new branch dev
+
+commit 298c89b91760372a483fe40fc9bed533a435433f
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Fri Nov 20 13:17:15 2020 +0800
+
+    add 222
+
+commit bad4b5be480eade293a7bafb5886a4219dbf69da
+Author: Anqing-None <xieanqing6@gmail.com>
+Date:   Thu Nov 19 23:29:56 2020 +0800
+
+    add 111
+
+commit 77cc471ff22aeb04577ee1662da90f7aa76ae2cf
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Thu Dec 20 12:15:11 2018 +0800
+
+    remove test.txt
+
+commit acca42a61c89ee583df9de824101897cd1cf8b9d
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Thu Dec 20 12:12:13 2018 +0800
+
+    add a test.txt
+
+commit 12088fe3f9cda96dea51eee5d9fc5284b84805b5
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Thu Dec 20 11:08:01 2018 +0800
+
+    add of files
+
+commit 5a37ed6379adb64698e71b059a160141ea182368
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Thu Dec 20 11:05:17 2018 +0800
+
+    git tracks changes
+
+commit 8ee6c53ccd3524fbaa76c3070243f77e591a5d98
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Thu Dec 20 11:00:53 2018 +0800
+
+    understand how stage works
+
+commit 3ad939f6cc17eb0dd3b3ffd4602e319cfee2fe93
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Thu Dec 20 10:51:09 2018 +0800
+
+    add under the GPL
+
+commit b67d2b7b99c0760ef769b7863bf636566785e4e5
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Wed Dec 19 20:56:14 2018 +0800
+
+    add distributed
+
+commit 0fd3f09065fa5b12e319603105a52373aa8fadee
+Author: Anqing-None <xieanqing6gmail.com>
+Date:   Wed Dec 19 20:38:56 2018 +0800
+
+    wrote a readme file
